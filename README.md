@@ -13,7 +13,6 @@ This repository contains the full thesis and supporting materials for my MTech d
 ## Contents
 
 - Thesis document (PDF)
-- (Add source code or supplementary materials here if you have them)
 
 ## Citation
 
