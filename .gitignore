@@ -1,0 +1,20 @@
+# MTech Thesis Repository - Ignore inappropriate files
+
+# Ignore web development files that don't belong in a thesis repository
+*.html
+*.css
+*.js
+node_modules/
+dist/
+build/
+
+# Ignore temporary and system files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+.vscode/
+.idea/
+
+# Keep focus on thesis materials only
+# This repository is for MTech thesis documentation
